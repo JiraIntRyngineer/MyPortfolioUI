@@ -1,2 +1,2 @@
 # MyPortfolioUI
-Portfolio UI
+This is my portfolio UI project
