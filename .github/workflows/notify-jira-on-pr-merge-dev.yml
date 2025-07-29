@@ -2,8 +2,6 @@ name: Notify Jira on PR Merge to Develop
 
 on:
   pull_request:
-    types:
-      - closed
     branches:
       - develop
 
