@@ -18,4 +18,4 @@ jobs:
             -H "Content-Type: application/json" \
             -H "X-Automation-Webhook-Token: ${{ secrets.JIRA_WEBHOOK_SECRET }}"
             -d '{"pr_title": "${{ github.event.pull_request.title }}", "pr_url": "${{ github.event.pull_request.html_url }}", "merged_by": "${{ github.event.pull_request.merged_by.login }}"}' \
-            ${{ secrets.JIRA_WEBHOOK_URL }}
+            https://api-private.atlassian.com/automation/webhooks/jira/a/138a22f3-04b4-4c96-b732-07be1a7de15c/019857d3-3aef-7077-9812-55e6a9e929c3
