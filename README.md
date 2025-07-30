@@ -1,9 +1,5 @@
 # MyPortfolioUI
 Azure Account - ryngineering@outlook.com
 This is my portfolio UI project.....
-This is my try again
-This time it should work atlest this time.
-Come on work.
-Testing a new Feature
-Testing Code Review
-
+Tryout 1
+Reyout 2
